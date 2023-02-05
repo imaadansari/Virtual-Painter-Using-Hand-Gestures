@@ -1,6 +1,6 @@
 # Virtual Painter Using Hand Gestures
 
-Python based application which uses enables users to draw using hand gestures.
+Python based application which enables users to draw using hand gestures.
 
 ----------------------------------------
 
